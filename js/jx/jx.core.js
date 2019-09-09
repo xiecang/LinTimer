@@ -168,7 +168,7 @@
                  *
                  * @example
                  * //在全局环境中创建codesRoom.lin名字空间, $namespace完成的操作相当于在全局环境中执行如下语句：
-                 * //var tencent = {};
+                 * //var codesRoom = {};
                  * //codesRoom.lin = {};
                  *
                  * J.$namespace("codesRoom.lin");
